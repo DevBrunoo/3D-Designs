@@ -1,0 +1,8 @@
+Para usar lembresse de instalar as dependecias 
+por exemplo instale os pacotes 
+
+
+1) npm init
+2) npm install node 
+3) npm install three.js 
+4) npx serve 
