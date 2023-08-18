@@ -17,8 +17,8 @@ var APP = {
 
 		this.dom = dom;
 
-		this.width = 500;
-		this.height = 500;
+		this.width = 100;
+		this.height = 100;
 
 		this.load = function ( json ) {
 

@@ -1,0 +1,17 @@
+
+
+1) camera
+
+player.setCamera( this );
+
+
+
+2) rotate 
+function update( event ) {
+	
+this.rotation.y+=0.05;
+this.rotation.x+=0.03;
+this.rotation.z+=0.01;
+
+
+}
